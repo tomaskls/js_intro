@@ -1,4 +1,6 @@
+"use strict"
 /*
+
 N.D.
 
 Reikalingas sarasas prekiu.
@@ -86,3 +88,9 @@ console.log(line3);
 console.log(line4);
 console.log(line5);
 console.log('Prekiu krepselio verte yra ' + totalPrice + ' Eur');
+
+
+
+
+
+
