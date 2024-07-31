@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "home": "node --watch ./homework.js",
+    "homef": "node --watch ./homework_functions.js",
     "object": "node --watch ./js/kintamieji/object.js",
     "dev": "node --watch ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
